@@ -6,7 +6,7 @@ Front-End : EShopper Template > http://demo.themeum.com/html/eshopper/
 Back-End : AdminLTE Template > https://almsaeedstudio.com/preview
 
 
-Install / Create Project
+Install.
 ===============================
 
 compoer create-project eakkabin/yii2-app-ecommerce yii2-ecommerce 1.0.0
