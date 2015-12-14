@@ -21,4 +21,4 @@ Example.
 
 Front-End : http://localhost/yii2-ecommerce
 
-Backend : http://localhost/yii2-ecommerce/dashboard
+Back-End : http://localhost/yii2-ecommerce/dashboard
