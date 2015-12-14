@@ -1,0 +1,7 @@
+AddDefaultCharset UTF-8
+<IfModule mod_rewrite.c>
+    Options FollowSymlinks
+    RewriteEngine on
+    RewriteRule ^$ frontend/web/            [L]
+    RewriteRule ^(.+)?$ frontend/web/$1     [L]
+</IfModule> 
